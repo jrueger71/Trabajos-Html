@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <header>
+        <h1>Mi Galeria de Fotos
+        </h1>
+    <header>
+
+        <section>
+            <h2>Estaciones del año</h2>
+            <figure>
+              <img style="width: 50%;" src="../IMG/seasons-trees-winter-snow-wallpaper-preview.jpg" alt="Estaciones del año"> 
+              <br> 
+            <figcaption>Evolucion del clima</figcaption>
+            <a href="../PAGE/CV_JR.html">Autor</a>
+            </figure>
+        </section>
+        <footer>
+            <p>&copy; 2024 Mi Galería de Fotos. Todos los derechos reservados.</p>
+        </footer>
+</body>
+</html>
