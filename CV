@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Personal Jorge Rueger</title>
+</head>
+<body>
+    <header>
+        <h1>Blog Personal Jorge Rueger</h1>
+        <h2>Aprendiz de Desarrollador</h2>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="../../index.html">Inicio</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
